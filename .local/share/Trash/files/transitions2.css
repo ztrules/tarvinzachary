@@ -1,0 +1,65 @@
+#block1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(255,255, 0, 0.5);
+    transition: all 3s ease;
+    width: 10%;
+    height: 10%;
+    opacity: 1;
+}
+
+#block2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10%;
+    height: 10%;
+    background-color: rgba (255, 0, 0, 0.5);
+}
+
+#move {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#size {
+    position: absolute;
+    top: 0;
+    left: 55%;
+    transform: translateX(-50%);
+}
+
+#opacity {
+    position: absolute;
+    top: 0;
+    left: 60%;
+    transform: translateX(-50%);
+}
+
+#color {
+    position: absolute;
+    top: 0;
+    left: 65%;
+    transform: translateX(-50%);
+}
+
+#block.move {
+    top: 50%;
+    left: 50%;
+}
+
+#block.size {
+    width: 20%;
+    height: 20%;
+}
+
+#block.opacity {
+    opacity: 0.25;
+}
+
+#block.color {
+    background-color: green;
+}

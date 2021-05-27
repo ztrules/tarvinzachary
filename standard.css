@@ -1,0 +1,10 @@
+nav {
+    background-color: red;
+    display:flex;
+    justify-content: space-between;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}

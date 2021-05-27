@@ -1,0 +1,8 @@
+[2021-05-24 09:23:15.699] [sharedprocess] [info] main {"machineId":"f5aff784cb147a4aed6db4316e0685fec0d5d49ecaa12c148500b50a68984d54","windowId":2}
+[2021-05-24 09:23:24.625] [sharedprocess] [info] Installing extension: peakchen90.open-html-in-browser
+[2021-05-24 09:23:26.349] [sharedprocess] [info] Downloaded extension: peakchen90.open-html-in-browser undefined
+[2021-05-24 09:23:47.707] [sharedprocess] [info] Extracted extension to /home/tarvinzachary/.vscode/extensions/.peakchen90.open-html-in-browser-2.1.6: peakchen90.open-html-in-browser
+[2021-05-24 09:23:47.712] [sharedprocess] [info] Renamed to /home/tarvinzachary/.vscode/extensions/peakchen90.open-html-in-browser-2.1.6
+[2021-05-24 09:23:47.721] [sharedprocess] [info] Installation completed. peakchen90.open-html-in-browser
+[2021-05-24 09:23:47.784] [sharedprocess] [info] Extensions installed successfully: peakchen90.open-html-in-browser
+[2021-05-24 09:23:55.756] [sharedprocess] [info] Starting to clean up unused language packs.
