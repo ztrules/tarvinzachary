@@ -40,3 +40,5 @@
 [2021-05-28 09:58:51.089] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tarvinzachary/aim--code--school/aim--code--school' is in submodule 'aim--code--school'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2021-05-28 10:05:43.238] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tarvinzachary/aim--code--school/zach-week-8-homwork' is in submodule 'aim--code--school'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2021-05-28 10:05:43.239] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tarvinzachary/aim--code--school/zach-week-8-homwork' is in submodule 'aim--code--school'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-05-28 10:09:30.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-05-28 10:09:30.760] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
