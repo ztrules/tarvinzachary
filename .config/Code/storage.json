@@ -1480,10 +1480,10 @@
             "folder": "file:///home/tarvinzachary",
             "backupPath": "/home/tarvinzachary/.config/Code/Backups/bfb9a69209486f9cd30a7ad08711182e",
             "uiState": {
-                "mode": 0,
-                "x": 0,
+                "mode": 1,
+                "x": 342,
                 "y": 40,
-                "width": 1366,
+                "width": 683,
                 "height": 688
             }
         },
