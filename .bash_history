@@ -251,3 +251,5 @@ cd aim--code--school
 git pull
 git push
 latest
+cd complete-javascript-course-master
+git push

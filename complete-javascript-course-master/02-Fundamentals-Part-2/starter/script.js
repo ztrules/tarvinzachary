@@ -473,6 +473,7 @@ for (let exercise = 1; exercise <= 3; exercise++) {
 // rep++
 // }
 
+/*
 let dice = Math.trunc(Math.random() * 6) + 1
 
 while (dice !== 6) {
@@ -480,3 +481,26 @@ while (dice !== 6) {
     dice = Math.trunc(Math.random() * 6) + 1
     if (dice === 6) console.log("Loop is about to end...")
 }
+*/
+
+// Code Challenge 4
+
+/*
+const calcTip = function (bills) {
+    if (bills >= 50 && bills <= 300) {
+        return bills * .15
+    } else {
+        return bills * .20
+    }
+}
+const bills = [22, 295, 176, 448, 37, 185, 1100, 86, 52]
+const tips = []
+const totals = []
+
+for (let i = 0; i < bills.length; i++) {
+    const tip = calcTip(bills[i]);
+    tips.push(tip);
+    totals.push(tip + bills[i]);
+}
+console.log(bills, tips, totals);
+*/
