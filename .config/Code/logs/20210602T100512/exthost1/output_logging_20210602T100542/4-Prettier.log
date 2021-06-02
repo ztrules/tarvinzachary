@@ -1,0 +1,344 @@
+["INFO" - 10:05:42 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:05:42 AM] Extension Version: 6.4.0.
+["INFO" - 10:15:30 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:15:30 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:15:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:15:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:15:30 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:15:31 AM] Formatting completed in 521.449205ms.
+["INFO" - 10:16:05 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:16:05 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:16:05 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:16:05 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:16:05 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:16:05 AM] Formatting completed in 154.34393ms.
+["INFO" - 10:16:38 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:16:39 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:16:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:16:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:16:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:16:39 AM] Formatting completed in 985.210436ms.
+["INFO" - 10:17:02 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:17:02 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:17:02 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:17:02 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:17:02 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:17:02 AM] Formatting completed in 91.443156ms.
+["INFO" - 10:17:11 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:17:11 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:17:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:17:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:17:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:17:11 AM] Formatting completed in 90.541181ms.
+["INFO" - 10:18:40 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:18:40 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:18:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:18:40 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:18:40 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:18:40 AM] Formatting completed in 110.766956ms.
+["INFO" - 10:18:53 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:18:53 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:18:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:18:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:18:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:18:53 AM] Formatting completed in 63.188124ms.
+["INFO" - 10:19:30 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:19:30 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:19:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:19:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:19:30 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:19:30 AM] Formatting completed in 266.562595ms.
+["INFO" - 10:24:49 AM] Formatting /home/tarvinzachary/.config/Code/User/snippets/ztarv.code-snippets
+["INFO" - 10:24:49 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:24:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:24:49 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:24:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:24:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/.config/Code/User/snippets/ztarv.code-snippets",
+  "parser": "json"
+}
+["INFO" - 10:24:49 AM] Formatting completed in 189.557103ms.
+["INFO" - 10:25:35 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:25:35 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:25:35 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:25:35 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:25:35 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:25:35 AM] Formatting completed in 142.902569ms.
+["INFO" - 10:28:47 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+["INFO" - 10:28:47 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 10:28:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:28:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:28:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+  "parser": "babel"
+}
+["INFO" - 10:28:47 AM] Formatting completed in 69.609049ms.

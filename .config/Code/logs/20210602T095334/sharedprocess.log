@@ -1,0 +1,8 @@
+[2021-06-02 09:53:55.808] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-02 09:54:30.083] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-02 10:04:45.679] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-06-02 10:04:50.607] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/tarvinzachary/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-6.4.0
+[2021-06-02 10:05:00.331] [sharedprocess] [info] Extracted extension to /home/tarvinzachary/.vscode/extensions/.8c0d914a-0eda-4b8c-ba69-830e5a982faf: esbenp.prettier-vscode
+[2021-06-02 10:05:00.494] [sharedprocess] [info] Renamed to /home/tarvinzachary/.vscode/extensions/esbenp.prettier-vscode-6.4.0
+[2021-06-02 10:05:00.592] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-06-02 10:05:00.717] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode

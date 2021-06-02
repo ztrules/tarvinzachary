@@ -126,3 +126,5 @@
 [2021-06-01 10:11:57.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
 [2021-06-01 10:15:30.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
 [2021-06-01 10:15:30.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-01 10:36:53.503] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-01 10:36:55.102] [exthost] [info] exiting with code 0
