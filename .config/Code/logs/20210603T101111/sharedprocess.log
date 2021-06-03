@@ -1,0 +1,10 @@
+[2021-06-03 10:11:27.030] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-03 10:12:01.049] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-03 10:12:54.657] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-06-03 10:12:56.386] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/tarvinzachary/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-06-03 10:14:00.626] [sharedprocess] [info] Extracted extension to /home/tarvinzachary/.vscode/extensions/.868c6db8-e147-4622-8bc0-d318880a9614: ritwickdey.liveserver
+[2021-06-03 10:14:00.763] [sharedprocess] [info] Renamed to /home/tarvinzachary/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-06-03 10:14:00.797] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2021-06-03 10:14:00.860] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-06-03 10:33:56.709] [sharedprocess] [info] Uninstalling extension: ritwickdey.liveserver
+[2021-06-03 10:33:56.865] [sharedprocess] [info] Successfully uninstalled extension: ritwickdey.liveserver

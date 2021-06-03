@@ -1,8 +1,0 @@
-[2021-05-27 10:08:17.112] [main] [info] update#setState idle
-[2021-05-27 10:08:47.114] [main] [info] update#setState checking for updates
-[2021-05-27 10:08:47.245] [main] [info] update#setState idle
-[2021-05-28 09:08:47.667] [main] [info] update#setState checking for updates
-[2021-05-28 09:08:50.056] [main] [error] Error: net::ERR_NETWORK_CHANGED
-    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7029)
-    at SimpleURLLoaderWrapper.emit (events.js:315:20)
-[2021-05-28 09:08:50.056] [main] [info] update#setState idle
