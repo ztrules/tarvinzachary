@@ -263,3 +263,5 @@ node -v
 node-v
 cd complete-javascript-course-master
 git push
+cd complete-javascript-course-master
+git push

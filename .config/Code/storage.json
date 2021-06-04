@@ -44,8 +44,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -562,7 +561,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap"
+                        "label": "Toggle &&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -598,8 +598,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1481,10 +1480,10 @@
             "folder": "file:///home/tarvinzachary",
             "backupPath": "/home/tarvinzachary/.config/Code/Backups/bfb9a69209486f9cd30a7ad08711182e",
             "uiState": {
-                "mode": 1,
-                "x": 342,
+                "mode": 0,
+                "x": 0,
                 "y": 40,
-                "width": 683,
+                "width": 1366,
                 "height": 688
             }
         },
