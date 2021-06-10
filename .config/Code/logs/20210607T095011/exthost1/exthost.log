@@ -128,3 +128,5 @@
 [2021-06-07 09:57:01.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
 [2021-06-07 10:10:56.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
 [2021-06-07 10:10:56.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-07 11:56:15.828] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-07 11:56:17.006] [exthost] [info] exiting with code 0
