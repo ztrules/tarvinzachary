@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/tarvinzachary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='/home/tarvinzachary/.Xauthority' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/tarvinzachary/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/tarvinzachary/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/tarvinzachary/.bashrc' failed; ex=Error: spawn ENOTDIR
+Open repository: /home/tarvinzachary

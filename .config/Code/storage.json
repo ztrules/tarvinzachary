@@ -38,7 +38,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.29",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -105,13 +105,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -126,7 +124,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.28",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -190,13 +188,11 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -245,13 +241,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -372,7 +366,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.17",
+                        "id": "submenuitem.19",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -412,13 +406,13 @@
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.toggleEditorVisibility",
-                                    "label": "Show &&Editor Area",
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel",
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "Show &&Editor Area",
                                     "checked": true
                                 },
                                 {
@@ -455,7 +449,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.26",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -567,8 +561,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -595,7 +588,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -604,14 +598,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.31",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -660,7 +653,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.30",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -866,7 +859,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.27",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -980,7 +973,7 @@
                         "label": "&&Welcome"
                     },
                     {
-                        "id": "workbench.action.showGettingStarted",
+                        "id": "workbench.action.openWalkthrough",
                         "label": "Getting Started"
                     },
                     {
@@ -1124,8 +1117,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1268,6 +1261,10 @@
             "workbench.view.explorer": {
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
+            },
+            "workbench.view.search": {
+                "label": "Ctrl+Shift+F",
+                "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G",
@@ -1496,5 +1493,27 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home"
+    "pickerWorkingDir": "/home",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
 }
