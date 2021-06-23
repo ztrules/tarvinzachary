@@ -1,0 +1,36 @@
+["INFO" - 8:35:07 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:35:07 AM] Extension Version: 7.1.1.
+["INFO" - 8:44:45 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 8:44:45 AM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 8:44:45 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 8:44:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 8:44:45 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:44:45 AM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 8:44:45 AM] Formatting completed in 279.917166ms.
+["INFO" - 8:49:08 AM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 8:49:08 AM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 8:49:08 AM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 8:49:08 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 8:49:08 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:49:08 AM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 8:49:08 AM] Formatting completed in 265.048644ms.
