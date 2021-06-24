@@ -5,3 +5,6 @@
 [2021-06-23 08:50:02.259] [main] [info] update#setState checking for updates
 [2021-06-23 08:50:02.778] [main] [info] update#setState available for download
 [2021-06-23 08:50:05.528] [main] [info] update#setState idle
+[2021-06-23 08:51:28.518] [main] [warning] Error attempting to set a password:  {}
+[2021-06-23 08:51:28.762] [main] [warning] Error attempting to set a password:  {}
+[2021-06-23 08:51:29.018] [main] [warning] Error attempting to set a password:  {}
