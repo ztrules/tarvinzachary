@@ -1,3 +1,3 @@
-2021/06/23-14:11:05.459 bed Reusing MANIFEST /home/tarvinzachary/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2021/06/23-14:11:05.460 bed Recovering log #3
-2021/06/23-14:11:05.460 bed Reusing old log /home/tarvinzachary/.config/Code/Local Storage/leveldb/000003.log 
+2021/06/24-07:35:37.398 162 Reusing MANIFEST /home/tarvinzachary/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2021/06/24-07:35:37.399 162 Recovering log #3
+2021/06/24-07:35:37.399 162 Reusing old log /home/tarvinzachary/.config/Code/Local Storage/leveldb/000003.log 

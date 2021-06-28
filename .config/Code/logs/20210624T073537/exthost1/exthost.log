@@ -178,3 +178,6 @@
 [2021-06-24 07:55:31.174] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
 [2021-06-24 07:55:38.083] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
 [2021-06-24 07:55:45.404] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
+[2021-06-24 07:56:02.886] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
+[2021-06-24 07:57:14.181] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-24 07:57:15.397] [exthost] [info] exiting with code 0
