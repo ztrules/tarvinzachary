@@ -1,0 +1,8 @@
+[2021-06-29 13:10:54.584] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-29 13:11:28.719] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-29 13:23:44.189] [sharedprocess] [info] Installing extension: devzstudio.emoji-snippets
+[2021-06-29 13:23:44.855] [sharedprocess] [info] Downloaded extension: devzstudio.emoji-snippets /home/tarvinzachary/.config/Code/CachedExtensionVSIXs/devzstudio.emoji-snippets-1.5.3
+[2021-06-29 13:23:45.370] [sharedprocess] [info] Extracted extension to /home/tarvinzachary/.vscode/extensions/.1deae796-f7ed-4bf5-95fa-0a0224a6aa6e: devzstudio.emoji-snippets
+[2021-06-29 13:23:45.457] [sharedprocess] [info] Renamed to /home/tarvinzachary/.vscode/extensions/devzstudio.emoji-snippets-1.5.3
+[2021-06-29 13:23:45.497] [sharedprocess] [info] Installation completed. devzstudio.emoji-snippets
+[2021-06-29 13:23:45.543] [sharedprocess] [info] Extensions installed successfully: devzstudio.emoji-snippets

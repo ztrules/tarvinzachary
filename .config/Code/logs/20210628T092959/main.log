@@ -1,3 +1,6 @@
 [2021-06-28 09:30:00.852] [main] [info] update#setState idle
 [2021-06-28 09:30:30.859] [main] [info] update#setState checking for updates
 [2021-06-28 09:30:30.966] [main] [info] update#setState idle
+[2021-06-28 10:28:01.780] [main] [warning] Error attempting to set a password:  {}
+[2021-06-28 10:28:02.024] [main] [warning] Error attempting to set a password:  {}
+[2021-06-28 10:28:02.262] [main] [warning] Error attempting to set a password:  {}

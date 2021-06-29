@@ -1,2 +1,9 @@
 [Error  - 14:30:32.187] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
 [Error  - 14:30:32.220] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Info  - 15:27:50.618] Logging in...
+[Info  - 15:28:00.842] Exchanging code for token...
+[Info  - 15:28:01.254] Token exchange success!
+[Info  - 15:28:01.262] Getting user info...
+[Info  - 15:28:01.653] Got account info!
+[Error  - 15:28:02.471] Setting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Info  - 15:28:04.834] Login success!
