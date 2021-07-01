@@ -1,0 +1,206 @@
+["INFO" - 2:28:14 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 2:28:14 PM] Extension Version: 8.0.1.
+["INFO" - 2:30:34 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 2:30:34 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 2:30:34 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 2:30:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:30:34 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:30:34 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 2:30:34 PM] Formatting completed in 359.10764ms.
+["INFO" - 2:46:31 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 2:46:31 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 2:46:31 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 2:46:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:46:31 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:46:31 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 2:46:32 PM] Formatting completed in 338.585431ms.
+["INFO" - 2:52:23 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 2:52:23 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 2:52:23 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 2:52:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:52:23 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:52:23 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 2:52:23 PM] Formatting completed in 432.26683ms.
+["INFO" - 2:56:01 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 2:56:01 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 2:56:01 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 2:56:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:56:01 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:56:01 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 2:56:01 PM] Formatting completed in 155.505109ms.
+["INFO" - 2:59:02 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 2:59:02 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 2:59:02 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 2:59:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:59:02 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:59:02 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 2:59:02 PM] Formatting completed in 110.748002ms.
+["INFO" - 3:00:54 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:00:54 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:00:54 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:00:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:00:54 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:00:54 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:00:54 PM] Formatting completed in 127.073939ms.
+["INFO" - 3:02:44 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:02:44 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:02:44 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:02:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:02:44 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:02:44 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:02:44 PM] Formatting completed in 146.014294ms.
+["INFO" - 3:06:37 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:06:37 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:06:37 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:06:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:06:37 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:06:37 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:06:37 PM] Formatting completed in 111.944497ms.
+["INFO" - 3:07:51 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:07:51 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:07:51 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:07:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:07:51 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:07:51 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:07:52 PM] Formatting completed in 142.091043ms.
+["INFO" - 3:09:01 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:09:01 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:09:01 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:09:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:09:01 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:09:01 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:09:01 PM] Formatting completed in 137.055787ms.
+["INFO" - 3:10:26 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:10:26 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:10:26 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:10:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:10:26 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:10:26 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:10:26 PM] Formatting completed in 200.353807ms.
+["INFO" - 3:11:36 PM] Formatting /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+["INFO" - 3:11:36 PM] Using config file at '/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/.prettierrc'
+["INFO" - 3:11:36 PM] Using ignore file (if present) at /home/tarvinzachary/.prettierignore
+["INFO" - 3:11:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:11:36 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:11:36 PM] Prettier Options:
+{
+  "filepath": "/home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+["INFO" - 3:11:36 PM] Formatting completed in 155.267026ms.

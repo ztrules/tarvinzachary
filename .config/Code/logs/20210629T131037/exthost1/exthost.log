@@ -130,3 +130,5 @@
 [2021-06-29 13:17:20.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
 [2021-06-29 13:39:15.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
 [2021-06-29 13:39:15.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-06-29 13:50:28.385] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-29 13:50:29.809] [exthost] [info] exiting with code 0
