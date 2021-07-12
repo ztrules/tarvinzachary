@@ -291,3 +291,5 @@ cd complete-javascript-course-master
 git push
 cd complete-javascript-course-master
 git push
+cd complete-javascript-course-master
+git push
