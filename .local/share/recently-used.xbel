@@ -3,22 +3,22 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///dev/bus/usb/002" added="2020-10-26T15:51:11Z" modified="2020-10-26T15:51:11Z" visited="2020-10-26T15:51:11Z">
+  <bookmark href="file:///home/tarvinzachary/aim--code--school" added="2021-07-19T16:34:12Z" modified="2021-07-19T16:34:12Z" visited="2021-07-19T16:34:12Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-10-26T15:51:11Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-07-19T16:34:12Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tarvinzachary" added="2020-10-26T15:52:00Z" modified="2020-10-26T15:52:00Z" visited="2020-10-26T15:52:00.517020Z">
+  <bookmark href="file:///home/tarvinzachary/complete-javascript-course-master" added="2021-07-19T16:39:07Z" modified="2021-07-19T16:39:07Z" visited="2021-07-19T16:39:08.073309Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-10-26T15:52:00Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-07-19T16:39:07Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

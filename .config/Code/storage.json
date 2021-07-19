@@ -3,6 +3,12 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/tarvinzachary/complete-javascript-course-master"
+            },
+            {
+                "folderUri": "file:///home/tarvinzachary/aim--code--school"
+            },
+            {
                 "folderUri": "file:///home/tarvinzachary"
             },
             {
@@ -44,7 +50,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -53,7 +60,29 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/tarvinzachary",
+                                        "fsPath": "/home/tarvinzachary/complete-javascript-course-master",
+                                        "external": "file:///home/tarvinzachary/complete-javascript-course-master",
+                                        "path": "/home/tarvinzachary/complete-javascript-course-master",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/complete-javascript-course-master"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/tarvinzachary/aim--code--school",
+                                        "path": "/home/tarvinzachary/aim--code--school",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/aim--code--school"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/tarvinzachary",
                                         "path": "/home/tarvinzachary",
                                         "scheme": "file"
@@ -407,8 +436,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -561,7 +589,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -588,7 +617,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -597,7 +627,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -821,7 +852,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -913,7 +945,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1480,8 +1513,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/tarvinzachary",
-            "backupPath": "/home/tarvinzachary/.config/Code/Backups/bfb9a69209486f9cd30a7ad08711182e",
+            "folder": "file:///home/tarvinzachary/complete-javascript-course-master",
+            "backupPath": "/home/tarvinzachary/.config/Code/Backups/b60552ec00ba433a76ab76fbd095f77e",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1492,7 +1525,7 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home",
+    "pickerWorkingDir": "/home/tarvinzachary",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
@@ -1510,7 +1543,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 193,
             "statusBarHeight": 22,
             "windowBorder": false
         }
