@@ -6,6 +6,9 @@
                 "folderUri": "file:///home/tarvinzachary/complete-javascript-course-master"
             },
             {
+                "folderUri": "file:///home/tarvinzachary/New%20JavaScript%20Course%20Folder"
+            },
+            {
                 "folderUri": "file:///home/tarvinzachary/aim--code--school"
             },
             {
@@ -50,8 +53,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -67,6 +69,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/complete-javascript-course-master"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/tarvinzachary/New%20JavaScript%20Course%20Folder",
+                                        "path": "/home/tarvinzachary/New JavaScript Course Folder",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/New JavaScript Course Folder"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -130,6 +143,10 @@
                         "label": "Save Workspace As..."
                     },
                     {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Duplicate Workspace"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -164,6 +181,10 @@
                                 {
                                     "id": "settings.filterByOnline",
                                     "label": "&&Online Services Settings"
+                                },
+                                {
+                                    "id": "settings.filterByTelemetry",
+                                    "label": "Telemetry Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -998,12 +1019,8 @@
             "Help": {
                 "items": [
                     {
-                        "id": "workbench.action.showWelcomePage",
-                        "label": "&&Welcome"
-                    },
-                    {
                         "id": "workbench.action.openWalkthrough",
-                        "label": "Getting Started"
+                        "label": "Welcome"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1510,8 +1527,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/tarvinzachary/complete-javascript-course-master",
-            "backupPath": "/home/tarvinzachary/.config/Code/Backups/b60552ec00ba433a76ab76fbd095f77e",
+            "folder": "file:///home/tarvinzachary/New%20JavaScript%20Course%20Folder",
+            "backupPath": "/home/tarvinzachary/.config/Code/Backups/b06d026ec2862aded9c9bd0d098913dc",
             "uiState": {
                 "mode": 0,
                 "x": 0,

@@ -306,3 +306,25 @@ git status
 git add .
 git status
 git commit -m "try to commit"
+git push
+git push -uv origin master
+git rm -r --cached
+git rm -r --cached .
+git status
+git add .
+git commit -m "test"
+git push -uv origin master
+git rm -r --cached
+git status
+git push -uv origin master
+git pull
+git rm -r --cached
+git rm -r --cached .
+git status
+git add .
+git commit -m "test2"
+git push -uv origin master
+git rm -r --cached .
+git add .
+git commit -m "test3"
+git push -uv origin master
