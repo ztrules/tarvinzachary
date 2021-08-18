@@ -583,8 +583,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -593,8 +592,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1490,7 +1488,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 183,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1500,10 +1498,10 @@
             "folder": "file:///home/tarvinzachary/complete-javascript-course-master",
             "backupPath": "/home/tarvinzachary/.config/Code/Backups/b60552ec00ba433a76ab76fbd095f77e",
             "uiState": {
-                "mode": 1,
-                "x": 171,
+                "mode": 0,
+                "x": 0,
                 "y": 40,
-                "width": 1024,
+                "width": 1366,
                 "height": 688
             }
         },
