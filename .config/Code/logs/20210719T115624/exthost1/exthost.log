@@ -20,3 +20,5 @@
 [2021-07-19 11:56:38.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tarvinzachary/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension
 [2021-07-19 11:56:39.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
 [2021-07-19 11:56:39.471] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-19 11:57:59.869] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-19 11:58:00.929] [exthost] [info] exiting with code 0

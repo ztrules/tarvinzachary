@@ -297,3 +297,12 @@ cd complete-javascript-course-master
 git push
 git status
 git remote -v
+git push
+ls
+cd complete-javascript-course-master/
+git -version
+git --version
+git status
+git add .
+git status
+git commit -m "try to commit"
