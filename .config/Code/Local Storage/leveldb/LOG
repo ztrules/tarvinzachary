@@ -1,3 +1,2 @@
-2021/08/18-14:52:43.354 1642 Reusing MANIFEST /home/tarvinzachary/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2021/08/18-14:52:43.355 1642 Recovering log #3
-2021/08/18-14:52:43.356 1642 Reusing old log /home/tarvinzachary/.config/Code/Local Storage/leveldb/000003.log 
+2021/08/18-15:25:47.230 1d21 Creating DB /home/tarvinzachary/.config/Code/Local Storage/leveldb since it was missing.
+2021/08/18-15:25:47.263 1d21 Reusing MANIFEST /home/tarvinzachary/.config/Code/Local Storage/leveldb/MANIFEST-000001

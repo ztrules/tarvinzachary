@@ -328,3 +328,10 @@ git rm -r --cached .
 git add .
 git commit -m "test3"
 git push -uv origin master
+git rm -r --cached .
+git add .
+git commit -m "test5"
+git push -uv origin master
+git rm -r --cached .
+git add .
+git commit -m "test6"

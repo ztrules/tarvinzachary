@@ -1,6 +1,3 @@
 {
-    "git.enableSmartCommit": true,
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "liveServer.settings.donotShowInfoMsg": true
+    "git.enableSmartCommit": true
 }
