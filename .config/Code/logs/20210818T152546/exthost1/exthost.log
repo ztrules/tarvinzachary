@@ -48,3 +48,5 @@
 [2021-08-18 15:27:28.678] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3102
 [2021-08-18 15:35:19.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
 [2021-08-18 15:35:19.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-08-18 15:57:48.539] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-18 15:57:50.051] [exthost] [info] exiting with code 0

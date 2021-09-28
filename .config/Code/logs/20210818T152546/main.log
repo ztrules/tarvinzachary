@@ -2,3 +2,6 @@
 [2021-08-18 15:25:47.719] [main] [info] update#setState idle
 [2021-08-18 15:26:17.722] [main] [info] update#setState checking for updates
 [2021-08-18 15:26:17.865] [main] [info] update#setState idle
+[2021-08-18 15:56:57.747] [main] [warning] Error attempting to set a password:  {}
+[2021-08-18 15:56:57.981] [main] [warning] Error attempting to set a password:  {}
+[2021-08-18 15:56:58.209] [main] [warning] Error attempting to set a password:  {}
