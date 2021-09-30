@@ -16,3 +16,5 @@
 [2021-09-28 13:21:35.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
 [2021-09-28 13:21:36.026] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
 [2021-09-28 13:21:36.026] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-28 13:23:52.204] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-28 13:23:53.256] [exthost] [info] exiting with code 0

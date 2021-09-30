@@ -1,0 +1,69 @@
+Validating found git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/tarvinzachary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/06-Modal/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/06-Modal/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/06-Modal/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/06-Modal/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/style.css
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/style.css
+> git cat-file -s dcf788f011bd44a668f24cc4f20d63a877543c9e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19/icon-themes/Monokai Classic monochrome icon-theme.json
+> git ls-tree -l HEAD -- /home/tarvinzachary/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19/icon-themes/Monokai Classic monochrome icon-theme.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git add -A -- .

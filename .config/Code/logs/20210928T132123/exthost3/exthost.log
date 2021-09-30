@@ -20,3 +20,6 @@
 [2021-09-28 13:22:45.414] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
 [2021-09-28 13:22:55.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
 [2021-09-28 13:22:55.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-28 13:23:43.058] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 672
+[2021-09-28 13:23:50.761] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-28 13:23:51.880] [exthost] [info] exiting with code 0

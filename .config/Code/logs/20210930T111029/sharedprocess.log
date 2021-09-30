@@ -1,0 +1,12 @@
+[2021-09-30 11:10:48.309] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-30 11:10:52.391] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-30 11:10:52.421] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210928T083247'
+[2021-09-30 11:11:12.264] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-30 11:11:12.298] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-30 11:11:22.175] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-30 11:26:08.074] [sharedprocess] [info] Installing extension: monokai.theme-monokai-pro-vscode
+[2021-09-30 11:26:10.471] [sharedprocess] [info] Downloaded extension: monokai.theme-monokai-pro-vscode /home/tarvinzachary/.config/Code/CachedExtensionVSIXs/monokai.theme-monokai-pro-vscode-1.1.19
+[2021-09-30 11:26:11.116] [sharedprocess] [info] Extracted extension to /home/tarvinzachary/.vscode/extensions/.85ec92b5-0f89-41c6-ab6c-db6f18b573b4: monokai.theme-monokai-pro-vscode
+[2021-09-30 11:26:11.171] [sharedprocess] [info] Renamed to /home/tarvinzachary/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19
+[2021-09-30 11:26:11.195] [sharedprocess] [info] Extracting completed. monokai.theme-monokai-pro-vscode
+[2021-09-30 11:26:11.246] [sharedprocess] [info] Extension installed successfully: monokai.theme-monokai-pro-vscode

@@ -1,0 +1,280 @@
+Validating found git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/tarvinzachary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git cat-file -s 939b2a2446e614a1fae9e9087743d142abe00085
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/final/script.js
+> git cat-file -s eceaebbc72da8c3d46db29fcc1231a35188e770f
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git cat-file -s 9029e211ff8ee2c381daf7dfc361194181a71f4c
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/index.html
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/index.html
+> git cat-file -s 59529c7923db2fd0ae2123ab51e34df4053d4f16
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git cat-file -s 9029e211ff8ee2c381daf7dfc361194181a71f4c
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git cat-file -s 9029e211ff8ee2c381daf7dfc361194181a71f4c
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git cat-file -s 9029e211ff8ee2c381daf7dfc361194181a71f4c
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/final/script.js
+> git cat-file -s 9029e211ff8ee2c381daf7dfc361194181a71f4c
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git cat-file -s 8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git cat-file -s 8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git cat-file -s 8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git cat-file -s 8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git cat-file -s 8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/final/script.js
+> git cat-file -s 8cee2087f76f2b6a574b89b2b66c5ddb5b877a3f
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/final/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/final/.prettierrc
+> git cat-file -s b4f8e6a6a1c5e36ab87aede73216796288f18a6f
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git cat-file -s 939b2a2446e614a1fae9e9087743d142abe00085
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/final/script.js
+> git cat-file -s eceaebbc72da8c3d46db29fcc1231a35188e770f
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git cat-file -s 939b2a2446e614a1fae9e9087743d142abe00085
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/final/script.js
+> git cat-file -s eceaebbc72da8c3d46db29fcc1231a35188e770f
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git cat-file -s 939b2a2446e614a1fae9e9087743d142abe00085
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/04-HTML-CSS/final/style.css
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/04-HTML-CSS/final/style.css
+> git cat-file -s d9730f2116f1f9ae2258dafa44e88c13e4d2561b
+> git show --textconv :complete-javascript-course-master/04-HTML-CSS/final/index.html
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/04-HTML-CSS/final/index.html
+> git cat-file -s da7d3f055b55bdbce7de293248a710d76c1861fe
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/final/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/final/.prettierrc
+> git cat-file -s b4f8e6a6a1c5e36ab87aede73216796288f18a6f
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/style.css
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/style.css
+> git cat-file -s dfed55a3200fabc12fb0a4499db1cbbf1591f890
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/final/script.js
+> git cat-file -s 8ca1e15c348c0786af4b68d51ca23e058c592b32
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/final/script.js
+> git cat-file -s 8ca1e15c348c0786af4b68d51ca23e058c592b32
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/06-Modal/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/06-Modal/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git cat-file -s 939b2a2446e614a1fae9e9087743d142abe00085
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/script.js
+> git cat-file -s 939b2a2446e614a1fae9e9087743d142abe00085
+> git show --textconv :complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/03-Developer-Skills/starter/.prettierrc
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git show --textconv :complete-javascript-course-master/06-Modal/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/06-Modal/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/06-Modal/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/06-Modal/final/script.js
+> git cat-file -s bc4028350e44ebca19984361bae4e09b5a11ca26
+> git show --textconv :complete-javascript-course-master/06-Modal/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/06-Modal/starter/script.js
+> git cat-file -s ad9a93a7c160f02945911772460eb8a1bcb003db
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

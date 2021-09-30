@@ -41,8 +41,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -402,7 +401,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -583,8 +583,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -593,8 +592,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -906,8 +904,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1467,18 +1464,18 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#2d2a2e",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
-            "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "foreground": "#fcfcfa",
+            "background": "#2d2a2e",
+            "editorBackground": "#2d2a2e",
+            "titleBarBackground": "#221f22",
+            "activityBarBackground": "#19181a",
+            "sideBarBackground": "#221f22",
+            "statusBarBackground": "#221f22",
+            "statusBarNoFolderBackground": "#221f22"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -1492,7 +1489,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/tarvinzachary/.config/Code/Backups/1632852957355",
+            "folder": "file:///home/tarvinzachary/complete-javascript-course-master",
+            "backupPath": "/home/tarvinzachary/.config/Code/Backups/b60552ec00ba433a76ab76fbd095f77e",
             "uiState": {
                 "mode": 0,
                 "x": 0,
