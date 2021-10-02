@@ -67,3 +67,22 @@ Open repository: /home/tarvinzachary
 > git check-ignore -v -z --stdin
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/tarvinzachary/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19/icon-themes/Monokai Classic monochrome icon-theme.json
+> git show --textconv HEAD:.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.19/icon-themes/Monokai Classic monochrome icon-theme.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s abc183e208da31496a8549b1f358251c7aba8a7f

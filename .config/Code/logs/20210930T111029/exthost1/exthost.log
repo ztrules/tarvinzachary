@@ -32,3 +32,6 @@
 [2021-09-30 11:41:32.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
 [2021-09-30 11:41:54.668] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
 [2021-09-30 11:44:14.844] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
+[2021-09-30 11:44:39.595] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
+[2021-09-30 11:44:59.461] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-30 11:45:00.736] [exthost] [info] exiting with code 0

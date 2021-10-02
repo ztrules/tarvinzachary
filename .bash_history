@@ -337,3 +337,5 @@ git add .
 git commit -m "test6"
 git push -uv origin master
 
+node -v
+git push
