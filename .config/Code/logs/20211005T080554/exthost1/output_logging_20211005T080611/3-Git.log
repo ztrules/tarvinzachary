@@ -1,0 +1,63 @@
+Validating found git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/tarvinzachary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 028b994c9f7491a923212ce5f67fbf6b0d32824a
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/final/script.js
+> git cat-file -s aa191032be32e0e79c2f9bb4248b3011a95d4ea3
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 028b994c9f7491a923212ce5f67fbf6b0d32824a
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/final/script.js
+> git cat-file -s aa191032be32e0e79c2f9bb4248b3011a95d4ea3
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 028b994c9f7491a923212ce5f67fbf6b0d32824a
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/final/script.js
+> git cat-file -s aa191032be32e0e79c2f9bb4248b3011a95d4ea3
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 028b994c9f7491a923212ce5f67fbf6b0d32824a
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/final/script.js
+> git cat-file -s aa191032be32e0e79c2f9bb4248b3011a95d4ea3
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 028b994c9f7491a923212ce5f67fbf6b0d32824a
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/final/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/final/script.js
+> git cat-file -s aa191032be32e0e79c2f9bb4248b3011a95d4ea3
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 028b994c9f7491a923212ce5f67fbf6b0d32824a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.config/Code/logs/20211002T071041/exthost1/exthost.log
+> git ls-files --stage -- /home/tarvinzachary/.config/Code/logs/20211002T071041/exthost1/exthost.log
+> git cat-file -s ddaad27c3d6bc7d205ca9ad5c241c2fb128222f3
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git add -A -- .
