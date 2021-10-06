@@ -61,3 +61,32 @@ Open repository: /home/tarvinzachary
 > git check-ignore -v -z --stdin
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/tarvinzachary/.config/Code/logs/20211002T071041/exthost1/exthost.log
+> git cat-file -s 65507b887b9a82bb8baa16464399979c788d4ef3
+> git show --textconv :.config/Code/logs/20211002T071041/exthost1/exthost.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/tarvinzachary/.config/Code/logs/20211002T071041/exthost1/exthost.log
+> git symbolic-ref --short HEAD
+> git cat-file -s 65507b887b9a82bb8baa16464399979c788d4ef3
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.config/Code/logs/20211002T071041/exthost1/exthost.log
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 6701255f66b7b01ca2ffe04a28d7650a2dba8eb4
