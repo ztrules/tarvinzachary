@@ -8,38 +8,54 @@ Open repository: /home/tarvinzachary
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
-> git check-ignore -v -z --stdin
-> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
-> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
-> git cat-file -s 26b9b06e36f878986f24b446fc60c8b528175576
-> git status -z -u
-> git symbolic-ref --short HEAD
-> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
-> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
-> git remote --verbose
-> git config --get commit.template
-> git status -z -u
-> git symbolic-ref --short HEAD
-> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
-> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
-> git remote --verbose
-> git config --get commit.template
-> git status -z -u
-> git symbolic-ref --short HEAD
-> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
-> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
-> git remote --verbose
-> git config --get commit.template
 > git show --textconv HEAD:.config/Code/logs/20211006T110156/exthost1/exthost.log
 > git ls-tree -l HEAD -- /home/tarvinzachary/.config/Code/logs/20211006T110156/exthost1/exthost.log
 > git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tarvinzachary/.config/Code/logs/20211006T110156/exthost1/exthost.log
+> git ls-tree -l HEAD -- /home/tarvinzachary/.config/Code/logs/20211006T110156/exthost1/exthost.log
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 41cbccd225b52ee1588c4ac0578c70452b127c5c
 > git check-ignore -v -z --stdin
-> git add -A -- .
-> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git check-ignore -v -z --stdin
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/style.css
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/style.css
+> git cat-file -s dfed55a3200fabc12fb0a4499db1cbbf1591f890
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s 54e1967caedfa1f64287902c6e032a88ac355856
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 41cbccd225b52ee1588c4ac0578c70452b127c5c
 > git status -z -u
 > git symbolic-ref --short HEAD
 > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/05-Guess-My-Number/starter/script.js
+> git cat-file -s 54e1967caedfa1f64287902c6e032a88ac355856
+> git show --textconv :complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git ls-files --stage -- /home/tarvinzachary/complete-javascript-course-master/07-Pig-Game/starter/script.js
+> git cat-file -s 41cbccd225b52ee1588c4ac0578c70452b127c5c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- .
