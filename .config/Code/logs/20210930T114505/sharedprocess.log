@@ -1,6 +1,0 @@
-[2021-09-30 11:45:19.466] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2021-09-30 11:45:23.630] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
-[2021-09-30 11:45:23.634] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210928T130411'
-[2021-09-30 11:45:43.622] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
-[2021-09-30 11:45:43.628] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
-[2021-09-30 11:45:53.628] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
